@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+h1{
+    font-weight: 600; 
+    font-size: 60px;
+}
+#value{
+    font-size: 60px;
+    font-weight: 600;
+}
+body{
+    background-color: aquamarine;
+}
